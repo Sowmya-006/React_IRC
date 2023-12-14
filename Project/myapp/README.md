@@ -1,3 +1,14 @@
+
+
+![homepg](https://github.com/Sowmya-006/React_IRC/assets/152410326/9f0e8427-aa72-4e58-9b84-9ce8fcd72568)
+
+
+![Login](https://github.com/Sowmya-006/React_IRC/assets/152410326/463f1ef6-b276-4c9e-a52c-77a27cd1a908)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
